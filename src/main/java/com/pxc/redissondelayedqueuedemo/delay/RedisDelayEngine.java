@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * redis 延时处理引擎
- * @author kiprince
+ * @author pengxincheng
  */
 @Slf4j
 public class RedisDelayEngine<T extends BaseTask> {
