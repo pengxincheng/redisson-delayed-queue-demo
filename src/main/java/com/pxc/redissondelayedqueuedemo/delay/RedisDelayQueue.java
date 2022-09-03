@@ -16,7 +16,7 @@ import java.util.concurrent.TimeUnit;
 import java.util.stream.Collectors;
 
 /**
- * @author kiprince
+ * @author pengxincheng
  * rediss 延时队列操作类
  */
 @Component
