@@ -3,7 +3,7 @@ package com.pxc.redissondelayedqueuedemo.delay;
 /**
  * 延时任务监听接口
  *
- * @author kiprince
+ * @author pengxincheng
  */
 public interface DelayTaskListener<T extends BaseTask> {
 
